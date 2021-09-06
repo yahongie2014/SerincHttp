@@ -1,6 +1,6 @@
 <?php
 
-namespace serinc;
+namespace serinc\utilities;
 
 class Encryptor
 {

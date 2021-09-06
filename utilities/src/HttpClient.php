@@ -1,6 +1,6 @@
 <?php
 
-namespace serinc;
+namespace serinc\utilities;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
