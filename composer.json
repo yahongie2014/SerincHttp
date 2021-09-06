@@ -1,23 +1,32 @@
 {
-    "name": "serinc-http/utilities",
-    "description": "SerincHttp Custom utilities",
-    "type": "library",
-    "require": {
-        "php": ">=7.0.0",
-        "ext-json": "*",
-        "ext-openssl": "*",
-        "illuminate/support": "~5.0",
-        "guzzlehttp/guzzle": "^6.3"
-    },
-    "autoload": {
-        "psr-4": {
-            "SerincHttp\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "coder79",
-            "email": "a.saeed@null.net"
-        }
-    ]
+  "name": "serinc-http/utilities",
+  "description": "Custom utilities",
+  "type": "library",
+  "keywords": [
+    "http",
+    "Request curl"
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "ext-json": "*",
+    "ext-openssl": "*",
+    "illuminate/support": "~5.0",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "support": {
+    "issues": "https://github.com/yahongie2014/payfort/issues",
+    "source": "https://github.com/yahongie2014/payfort"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SerincHttp\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "coder79",
+      "email": "a.saeed@null.net"
+    }
+  ]
 }
