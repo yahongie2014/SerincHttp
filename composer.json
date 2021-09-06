@@ -1,5 +1,5 @@
 {
-    "name": "SerincHttp/utilities",
+    "name": "serinc-http/utilities",
     "description": "SerincHttp Custom utilities",
     "type": "library",
     "require": {
