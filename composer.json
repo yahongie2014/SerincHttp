@@ -1,5 +1,5 @@
 {
-  "name": "SerincUtilities",
+  "name": "serincutilities",
   "description": "Custom utilities",
   "type": "library",
   "license": "MIT",
@@ -28,7 +28,7 @@
       "src/"
     ],
     "psr-4": {
-      "serinc-http\\": "src/"
+      "serincutilities\\": "src/"
     }
   },
   "minimum-stability": "stable",
