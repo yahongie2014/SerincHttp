@@ -28,5 +28,9 @@
       "name": "coder79",
       "email": "a.saeed@null.net"
     }
-  ]
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "~4.0",
+    "fabpot/goutte": "~3.2"
+  }
 }
