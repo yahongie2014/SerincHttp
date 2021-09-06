@@ -22,6 +22,8 @@
     "issues": "https://github.com/yahongie2014/payfort/issues",
     "source": "https://github.com/yahongie2014/payfort"
   },
+  "prefer-stable": true,
+  "minimum-stability": "dev",
   "autoload": {
     "classmap": [
       "src/"
@@ -30,7 +32,6 @@
       "serinc\\": "src/"
     }
   },
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "coder79",
@@ -38,7 +39,7 @@
     }
   ],
   "config": {
-    "sort-packages": true
+    "sort-packages": true,
+    "optimize-autoloader": true
   }
-
 }
