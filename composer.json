@@ -19,7 +19,7 @@
     "source": "https://github.com/yahongie2014/payfort"
   },
   "prefer-stable": true,
-  "minimum-stability": "1.0",
+  "minimum-stability": "dev",
   "autoload": {
     "classmap": [
       "src/"
