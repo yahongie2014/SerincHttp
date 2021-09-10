@@ -9,3 +9,9 @@ You can install `Laravel Payfort` package to your laravel project via composer c
 ```
 $ composer require serinc/utilities:dev-master
 ```
+
+## OR
+```
+$ composer require serinc/utilities:dev-main
+
+````
