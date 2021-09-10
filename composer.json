@@ -15,8 +15,8 @@
     "guzzlehttp/guzzle": "^6.0"
   },
   "support": {
-    "issues": "https://github.com/yahongie2014/payfort/issues",
-    "source": "https://github.com/yahongie2014/payfort"
+    "issues": "https://github.com/yahongie2014/SerincHttp/issues",
+    "source": "https://github.com/yahongie2014/SerincHttp"
   },
   "prefer-stable": true,
   "minimum-stability": "dev",
