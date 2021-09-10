@@ -7,5 +7,5 @@ Laravel Utilites
 
 You can install `Laravel Payfort` package to your laravel project via composer command:
 ```
-$ composer require serinc-http/utilities:dev-master
+$ composer require serinc/utilities:dev-master
 ```
