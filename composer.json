@@ -1,6 +1,6 @@
 {
   "name": "serinc/utilities",
-  "description": "Custom utilities",
+  "description": "Serinc Utilities For Alterative Method CURL With Guzzle HTTP & PSR And have Another Method For Encrypt & Decrypt Methods With Cipher & hexabin algorithm",
   "type": "library",
   "license": "MIT",
   "keywords": [
