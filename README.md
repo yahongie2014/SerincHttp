@@ -55,6 +55,6 @@ $value_decrypt = (new Encryptor())->decrypt($password);
 
 ####
 $ Follow ME
->Develope by Dev Ahmed S. Ahmed [coder79](https://twitter.com/yahongie) ❤
+>Develope by Dev Ahmed S. Ahmed [coder79](https://coder79.online/) ❤
 
 
